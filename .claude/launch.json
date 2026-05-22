@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "artes-buho-email-builder",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["http-server", "C:/Users/elrub/Desktop/CARPETA CODEX/01_PROYECTOS/ARTES-BUHO_HTML", "-p", "8090", "-c-1"],
+      "port": 8090
+    }
+  ]
+}

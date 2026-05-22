@@ -1,0 +1,19 @@
+{
+  "name": "artes-buho-html",
+  "version": "0.2.0",
+  "description": "Email Builder de ARTES BUHO MANAGEMENT. Desarrollado por RUBEN COTON.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "sync": "node scripts/drive-sync.js"
+  },
+  "dependencies": {
+    "artes-buho-api-google": "file:../ARTES-BUHO_API-GOOGLE"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "RUBEN COTON",
+  "license": "UNLICENSED"
+}
